@@ -1,4 +1,4 @@
-# Out-of_Scope Intent Classification using LSTM
+# Out_of_Scope Intent Classification using LSTM
 
 Group Members
 - Mujahir Abbasi
