@@ -1,12 +1,18 @@
 # Out-of_Scope Intent Classification using LSTM
 
-Group Membera
+Group Members
 - Mujahir Abbasi
 - Abir Sur
 - Rutwik Wagh
 - Shivam Sanjay Jadhav
 
 ---
+
+Datasets
+
+The datatsets used for this project :
+
+https://www.kaggle.com/datasets/stefanlarson/outofscope-intent-classification-dataset
 
 
 
